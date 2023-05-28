@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @i350
-- 👀 I’m interested in Web-Development and Embedded-systems
-- 🌱 I’m currently solidate my learning on Web-Development
+- 👀 I’m interested in Web-Developmentm
+- 🌱 My primary web framework is Laravel, and secondary framework is Django
 - 💞️ I’m looking to collaborate on Web
 - 📫 Reach me my email: IslamM.Abdelfattah@gmail.com 
 
